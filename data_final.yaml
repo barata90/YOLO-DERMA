@@ -1,0 +1,7 @@
+names:
+- Mild
+- Moderate
+- Severe
+nc: 3
+train: /content/dataset_10000/train/images
+val: /content/dermatitis-atopik1-2/valid/images
