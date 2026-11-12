@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/Dermatitis-atopik/Yolo/dataset_xai_dermatitis
+train: images/train
+val: images/val
+nc: 3
+names:
+- Berat
+- Ringan
+- Sedang
